@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #777;
+}
+
+.projectList {
+  list-style: none;
+  padding: 0;
+}
+
+.projectList li {
+  margin: 20px 0;
+}
+
+.projectLink {
+  font-size: 1.5rem;
+  color: #3498db;
+  text-decoration: none;
+}
+
+.backButton {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2c3e50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 30px;
+}
